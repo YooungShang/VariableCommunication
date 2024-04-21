@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocketCore", "SocketCore\SocketCore.csproj", "{380DAAC5-5504-4B8D-9B48-3F264FDDDB63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModbusCore", "ModbusCore\ModbusCore.csproj", "{829B5CB3-EA91-4CD3-B696-A3426D15B95E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VariablesCore", "VariablesCore\VariablesCore.csproj", "{EA32C181-3522-4FDE-90D4-7A163DD442D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{380DAAC5-5504-4B8D-9B48-3F264FDDDB63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{380DAAC5-5504-4B8D-9B48-3F264FDDDB63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{380DAAC5-5504-4B8D-9B48-3F264FDDDB63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{380DAAC5-5504-4B8D-9B48-3F264FDDDB63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{829B5CB3-EA91-4CD3-B696-A3426D15B95E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{829B5CB3-EA91-4CD3-B696-A3426D15B95E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{829B5CB3-EA91-4CD3-B696-A3426D15B95E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{829B5CB3-EA91-4CD3-B696-A3426D15B95E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA32C181-3522-4FDE-90D4-7A163DD442D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA32C181-3522-4FDE-90D4-7A163DD442D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA32C181-3522-4FDE-90D4-7A163DD442D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA32C181-3522-4FDE-90D4-7A163DD442D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
